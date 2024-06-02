@@ -1,4 +1,5 @@
-## FTIR spectra fitting 
+👩‍🔬 Leveraging Physics for Better Lithographic Controls 🔬
 
-school assignment to fit the optained spectra of an unknown thin film. First attempted by Drude model but later managed by using Brendel-Bormann model. 
-The substrate it self was fitted succsesfuly, fit of the thin film doesnt seem satisfactory. 
+I've just completed a project where I utilized multiple beam interference to accurately measure the thickness of spincoated resist. Using FTIR to capture reflectance and transmittance, I implemented the Brendel-Borman model in Python to determine permittivity, confirming the results and conclusions previously reached by my colleagues. Although they employed the robust technique of ellipsometry, my research demonstrated that similar precision can be achieved with FTIR, validating the same resist thickness measurements. Importantly, this work confirmed that the relationship between spin coater speed and resist thickness is not linear.
+
+This methodology further refines grating fabrication precision. It was crucial for optimizing spin coater speed during the lithographic process of creating blazed gratings for the second part of my diploma thesis.
