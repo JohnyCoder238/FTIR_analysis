@@ -1,5 +1,7 @@
 ## 👩‍🔬 Leveraging Physics for Better Lithographic Controls 🔬
 
+⭐️⭐️⭐️ Please star this repo if you find it helpful, interesting, or useful! ⭐️⭐️⭐️
+
 I've just completed a project where I utilized multiple beam interference to accurately measure the thickness of spincoated resist. I implemented the Brendel-Borman model in Python to determine permittivity of substrate:
 
 ![alt text](https://raw.githubusercontent.com/JohnyCoder238/FTIR_analysis/main/img/Dielectric.jpeg)
